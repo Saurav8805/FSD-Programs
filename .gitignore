@@ -1,0 +1,18 @@
+# Dependencies
+Frontend/node_modules/
+
+# Build outputs
+Frontend/dist/
+Frontend/build/
+
+# Environment variables
+Frontend/.env
+Frontend/.env.local
+
+# Logs
+*.log
+
+# Editor directories and files
+.vscode/
+.idea
+.DS_Store
